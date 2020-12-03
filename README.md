@@ -1,1 +1,1 @@
-https://dudaexemplo.github.io
+http://dudaexemplo.gitgub.io
